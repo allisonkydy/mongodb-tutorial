@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-tutorial",
+  "version": "1.0.0",
+  "description": "MongoDB tutorials from The Net Ninja on Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allisonkydy/mongodb-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allisonkydy/mongodb-tutorial/issues"
+  },
+  "homepage": "https://github.com/allisonkydy/mongodb-tutorial#readme",
+  "dependencies": {
+    "mongoose": "^5.7.11"
+  },
+  "devDependencies": {}
+}
