@@ -1,4 +1,4 @@
-const mocha = require('mocha');
+// const mocha = require('mocha'); -- not necessary
 const assert = require('assert');
 const MarioChar = require('../models/mariochar');
 
